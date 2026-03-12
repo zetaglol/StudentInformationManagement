@@ -1,0 +1,15 @@
+C:\Users\Shanley\source\repos\StudentManagementDataService\bin\Debug\net8.0\StudentManagementDataService.deps.json
+C:\Users\Shanley\source\repos\StudentManagementDataService\bin\Debug\net8.0\StudentManagementDataService.dll
+C:\Users\Shanley\source\repos\StudentManagementDataService\bin\Debug\net8.0\StudentManagementDataService.pdb
+C:\Users\Shanley\source\repos\StudentManagementDataService\bin\Debug\net8.0\StudentManagementModels.dll
+C:\Users\Shanley\source\repos\StudentManagementDataService\bin\Debug\net8.0\StudentManagementModels.pdb
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentManagementDataService.csproj.AssemblyReference.cache
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentManagementDataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentManagementDataService.AssemblyInfoInputs.cache
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentManagementDataService.AssemblyInfo.cs
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentManagementDataService.csproj.CoreCompileInputs.cache
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentM.0485100F.Up2Date
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentManagementDataService.dll
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\refint\StudentManagementDataService.dll
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\StudentManagementDataService.pdb
+C:\Users\Shanley\source\repos\StudentManagementDataService\obj\Debug\net8.0\ref\StudentManagementDataService.dll

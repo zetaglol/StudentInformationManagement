@@ -1,0 +1,11 @@
+C:\Users\Shanley\source\repos\StudentManagementModels\bin\Debug\net8.0\StudentManagementModels.deps.json
+C:\Users\Shanley\source\repos\StudentManagementModels\bin\Debug\net8.0\StudentManagementModels.dll
+C:\Users\Shanley\source\repos\StudentManagementModels\bin\Debug\net8.0\StudentManagementModels.pdb
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\StudentManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\StudentManagementModels.AssemblyInfoInputs.cache
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\StudentManagementModels.AssemblyInfo.cs
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\StudentManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\StudentManagementModels.dll
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\refint\StudentManagementModels.dll
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\StudentManagementModels.pdb
+C:\Users\Shanley\source\repos\StudentManagementModels\obj\Debug\net8.0\ref\StudentManagementModels.dll
